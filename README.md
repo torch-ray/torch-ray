@@ -2,11 +2,11 @@
 
 Hello, I'm Woo Seok.
 It's good to see you.  
-If you're not good at Korean, you can call me just Ray.  
-Technically, Raymond:)
+You can call me just Ray, if you want.   
+Technically, it's Raymond:)
 
 I'm very interested in **ProblemSovling** and **Algorithm**.   
-Wanna get code jam T-shirt desperately!!!
+Wanna get code jam T-shirt!!
 
 ### 🧑‍💻 self.language
 
