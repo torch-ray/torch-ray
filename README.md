@@ -2,8 +2,7 @@
 
 Hello, I'm Woo Seok.
 It's good to see you.  
-You can call me just Ray, if you want.   
-Technically, it's Raymond:)
+You can call me just Ray, if you want:)
 
 I'm very interested in **ProblemSovling** and **Algorithm**.   
 Wanna get code jam T-shirt!!
