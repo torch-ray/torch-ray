@@ -9,10 +9,8 @@ Wanna get code jam T-shirt!!
 
 ### 🧑‍💻 self.language
 
-- Korean (A+)
-- English (C+)
-- Swift (B+)
-- Python (D)
+- Swift
+- Python
 
 ### 🎮 self.codingTestHistory
 
