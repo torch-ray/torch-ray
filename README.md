@@ -1,11 +1,14 @@
 ### 🙉 self.description
 
-Hello, I'm Woo Seok.
-It's good to see you.  
-You can call me just Ray, if you want:)
+Hello, I'm Woo Seok.  
+It's good to see you.
 
-I'm very interested in **ProblemSovling** and **Algorithm**.   
-Wanna get code jam T-shirt!!
+I'm very interested in 3S.  
+CS / PS / OS
+
+### ⭐ self.motto
+
+If you can't explain it simply, you don't understand it very well. 
 
 ### 🧑‍💻 self.language
 
